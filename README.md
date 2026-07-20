@@ -20,17 +20,15 @@ Muchas de estas ideas nacen de situaciones cotidianas, proyectos reales o pregun
 
 ## Artículos y notas
 
-Este repositorio está en construcción.
+### [Del plano técnico al pensamiento en borrador](./pensamiento-en-borrador)
 
-Voy a incorporar progresivamente textos ya publicados en Medium y LinkedIn, junto con algunas ideas todavía en desarrollo.
+Una nota sobre el momento previo a la solución: ese espacio donde las ideas todavía están desordenadas, incompletas y necesitan escribirse para empezar a tomar forma.
 
-Cada entrada puede incluir:
+El texto presenta mi Medium como una cocina de ideas y explica por qué uso la escritura no solo para comunicar conclusiones, sino también para encontrarlas.
 
-- una breve introducción;
-- el conflicto o pregunta que dio origen al texto;
-- conceptos principales;
-- enlaces a la publicación completa;
-- notas, referencias o material complementario.
+[Leer la publicación completa en Medium](https://lucasgiuliani.medium.com/del-plano-t%C3%A9cnico-al-pensamiento-en-borrador-los-invito-a-mi-cocina-de-ideas-%EF%B8%8F-a61aa59f7308)
+
+> Primera entrada del repositorio.
 
 ## Sobre mi manera de escribir
 
